@@ -43,8 +43,6 @@ from .skep.modeling import *
 from .skep.tokenizer import *
 from .xlnet.modeling import *
 from .xlnet.tokenizer import *
-from .albert.modeling import *
-from .albert.tokenizer import *
 from .ernie_gram.modeling import *
 from .ernie_gram.tokenizer import *
 from .nezha.modeling import *
